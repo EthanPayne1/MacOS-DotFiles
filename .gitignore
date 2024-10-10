@@ -1,6 +1,11 @@
-./github-copilot/
-./qBittorrent/
+github-copilot/
+qBittorrent/
 ./zed/
 ./.DS_Store
-./iterm2
+iterm2/
 ./tmux/tmux
+.DS_Store
+zed/
+yabai/README.md
+yabai/screenshots/
+yabai/.gitignore
