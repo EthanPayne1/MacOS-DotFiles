@@ -50,7 +50,7 @@ lspconfig.jdtls.setup {
   }
 }
 
-lspconfig.java.setup {
+lspconfig.jdtls.setup {
   on_attach = on_attach,
   capabilities = capabilities,
   init_options = {
