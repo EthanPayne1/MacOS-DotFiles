@@ -7,7 +7,7 @@ set -x
 declare -A gaps
 declare -A color
 
-gaps["top"]="2"
+gaps["top"]="25"
 gaps["bottom"]="2"
 gaps["left"]="1"
 gaps["right"]="1"
