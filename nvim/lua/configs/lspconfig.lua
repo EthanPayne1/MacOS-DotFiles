@@ -43,9 +43,9 @@ lspconfig.clangd.setup {
 lspconfig.jdtls.setup {
   on_attach = on_attach,
   capabilities = capabilities,
-  init_options = {
-    preferences = {
-      disableSuggestions = false,
-    }
-  }
+  --init_options = {
+    --preferences = {
+      --disableSuggestions = false,
+    --}
+  --}
 }
