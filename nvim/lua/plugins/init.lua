@@ -1,4 +1,4 @@
-return {
+local plugins = {
   {
     "stevearc/conform.nvim",
      event = 'BufWritePre', -- uncomment for format on save
@@ -20,7 +20,7 @@ return {
   	opts = {
   		ensure_installed = {
   			"lua-language-server", "stylua",
-  			"html-lsp", "css-lsp" , "prettier"
+  			"html-lsp", "css-lsp" , "prettier", "clangd", "clang-format", "codelldb",
   		},
   	},
   },
@@ -34,3 +34,4 @@ return {
   	},
   },
 }
+return plugins
