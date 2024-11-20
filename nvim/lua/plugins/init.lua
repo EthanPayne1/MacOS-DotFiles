@@ -20,7 +20,7 @@ local plugins = {
   	opts = {
   		ensure_installed = {
   			"lua-language-server", "stylua",
-  			"jdtls", "css-lsp" , "prettier", "clangd", "clang-format", "codelldb",
+  			"jdtls", "java" , "prettier", "clangd", "clang-format", "codelldb",
   		},
   	},
   },
