@@ -35,7 +35,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#eee8d5"
+        "foreground": "#ffe6b5"
       }
     },
     {
@@ -43,7 +43,7 @@
         "keyword"
       ],
       "settings": {
-        "foreground": "#8abae1"
+        "foreground": "#56656a"
       }
     },
     {
@@ -51,7 +51,7 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#bfc5d0"
+        "foreground": "#c7cdd8"
       }
     },
     {
@@ -59,7 +59,7 @@
         "function"
       ],
       "settings": {
-        "foreground": "#ced4df"
+        "foreground": "#c7cdd8"
       }
     },
     {
@@ -67,7 +67,7 @@
         "number"
       ],
       "settings": {
-        "foreground": "#B8B7B1"
+        "foreground": "#c7cdd8"
       }
     },
     {
@@ -75,7 +75,7 @@
         "storage.type"
       ],
       "settings": {
-        "foreground": "#859ba2"
+        "foreground": "#56656a"
       }
     },
     {
@@ -86,7 +86,7 @@
         "meta.brace.curly"
       ],
       "settings": {
-        "foreground": "#8abae1"
+        "foreground": "#56656a"
       }
     },
     {
@@ -95,7 +95,7 @@
         "keyword.control.directive.include"
       ],
       "settings": {
-        "foreground": "#B8B7B1"
+        "foreground": "#c7cdd8"
       }
     },
     {
@@ -105,7 +105,7 @@
         "punctuation.definition.string.end.c"
       ],
       "settings": {
-        "foreground": "#8abae1"
+        "foreground": "#56656a"
       }
     }
   ]
