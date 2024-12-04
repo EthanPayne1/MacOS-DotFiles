@@ -35,7 +35,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#ead7b1"
+        "foreground": "#ddc595"
       }
     },
     {
@@ -43,7 +43,7 @@
         "keyword"
       ],
       "settings": {
-        "foreground": "#6b7577"
+        "foreground": "#859ba2"
       }
     },
     {
@@ -75,7 +75,7 @@
         "storage.type"
       ],
       "settings": {
-        "foreground": "#606d70"
+        "foreground": "#859ba2"
       }
     },
     {
@@ -86,7 +86,7 @@
         "meta.brace.curly"
       ],
       "settings": {
-        "foreground": "#606d70"
+        "foreground": "#859ba2"
       }
     },
     {
@@ -105,7 +105,7 @@
         "punctuation.definition.string.end.c"
       ],
       "settings": {
-        "foreground": "#606d70"
+        "foreground": "#859ba2"
       }
     }
   ]
