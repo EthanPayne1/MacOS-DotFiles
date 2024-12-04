@@ -11,6 +11,6 @@ yabai/screenshots/
 yabai/.gitignore
 /sketchybar-Clone/
 swi-prolog/
-monochrome-theme/monochrome-theme-0.0.*
+monochrome-theme/monochrome-theme-0*
 nvim/nvim-jdtls/
 monochrome-theme/themes/NvChad-Monochrome.png
