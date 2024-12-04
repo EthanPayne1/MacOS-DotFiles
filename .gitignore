@@ -11,3 +11,5 @@ yabai/screenshots/
 yabai/.gitignore
 /sketchybar-Clone/
 swi-prolog/
+monochrome-theme/monochrome-theme-0.0.1.vsix
+nvim/nvim-jdtls/

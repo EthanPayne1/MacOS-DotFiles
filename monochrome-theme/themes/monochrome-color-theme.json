@@ -4,7 +4,7 @@
   "colors": {
     "editor.background": "#101010",
     "editor.foreground": "#D8DEE9",
-    "activityBar.background": "#1a1a1a",
+    "activityBar.background": "#101010",
     "activityBar.foreground": "#D8DEE9",
     "sideBar.background": "#202020",
     "sideBar.foreground": "#D8DEE9",
@@ -35,7 +35,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#c9d36a"
+        "foreground": "#dbd5c0"
       }
     },
     {
@@ -59,7 +59,7 @@
         "function"
       ],
       "settings": {
-        "foreground": "#a5c6e1"
+        "foreground": "#cbd2de"
       }
     },
     {
@@ -67,7 +67,7 @@
         "number"
       ],
       "settings": {
-        "foreground": "#ffe6b5"
+        "foreground": "#cbd2de"
       }
     },
     {
@@ -75,7 +75,7 @@
         "storage.type"
       ],
       "settings": {
-        "foreground": "#e1bee9"
+        "foreground": "#749399"
       }
     },
     {
@@ -83,7 +83,7 @@
         "punctuation.bracket"
       ],
       "settings": {
-        "foreground": "#ec8989"
+        "foreground": "#ced4df"
       }
     }
   ]
