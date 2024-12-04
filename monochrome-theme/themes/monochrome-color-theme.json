@@ -122,6 +122,15 @@
       "settings": {
         "foreground": "#859ba2"
       }
+    },
+    {
+      "scope": [
+        "meta.preprocessor",
+        "keyword.control.directive.include"
+      ],
+      "settings": {
+        "foreground": "#ced4df"
+      }
     }
   ]
 }
