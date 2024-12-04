@@ -35,7 +35,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#8ea9e1"
+        "foreground": "#ead7b1"
       }
     },
     {
@@ -43,7 +43,7 @@
         "keyword"
       ],
       "settings": {
-        "foreground": "#606d70"
+        "foreground": "#6b7577"
       }
     },
     {
