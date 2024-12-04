@@ -129,7 +129,7 @@
         "keyword.control.directive.include"
       ],
       "settings": {
-        "foreground": "#B8B7B1"
+        "foreground": "#c7cdd8"
       }
     },
     {
@@ -139,7 +139,7 @@
         "punctuation.definition.string.end.c"
       ],
       "settings": {
-        "foreground": "#8abae1"
+        "foreground": "#56656a"
       }
     }
   ]
