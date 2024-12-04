@@ -85,6 +85,15 @@
       "settings": {
         "foreground": "#ec8989"
       }
+    },
+    {
+      "scope": [
+        "meta.preprocessor",
+        "keyword.control.directive.include"
+      ],
+      "settings": {
+        "foreground": "#ced4df"
+      }
     }
   ]
 }
