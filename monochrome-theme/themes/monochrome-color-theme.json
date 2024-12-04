@@ -35,7 +35,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#dbd5c0"
+        "foreground": "#eee8d5"
       }
     },
     {
@@ -51,7 +51,7 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#D8DEE9"
+        "foreground": "#bfc5d0"
       }
     },
     {
@@ -59,7 +59,7 @@
         "function"
       ],
       "settings": {
-        "foreground": "#cbd2de"
+        "foreground": "#ced4df"
       }
     },
     {
@@ -67,7 +67,7 @@
         "number"
       ],
       "settings": {
-        "foreground": "#cbd2de"
+        "foreground": "#B8B7B1"
       }
     },
     {
@@ -75,7 +75,7 @@
         "storage.type"
       ],
       "settings": {
-        "foreground": "#749399"
+        "foreground": "#859ba2"
       }
     },
     {
@@ -83,7 +83,7 @@
         "punctuation.bracket"
       ],
       "settings": {
-        "foreground": "#ced4df"
+        "foreground": "#ec8989"
       }
     }
   ]
