@@ -1,0 +1,112 @@
+{
+  "name": "Monochrome",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#101010",
+    "editor.foreground": "#D8DEE9",
+    "activityBar.background": "#101010",
+    "activityBar.foreground": "#D8DEE9",
+    "sideBar.background": "#202020",
+    "sideBar.foreground": "#D8DEE9",
+    "statusBar.background": "#1e1e1e",
+    "statusBar.foreground": "#D8DEE9",
+    "titleBar.activeBackground": "#1a1a1a",
+    "titleBar.activeForeground": "#D8DEE9",
+    "tab.activeBackground": "#2e2e2e",
+    "tab.inactiveBackground": "#202020",
+    "editorLineNumber.foreground": "#424242",
+    "editorLineNumber.activeForeground": "#677777",
+    "editor.lineHighlightBackground": "#2e2e2e",
+    "editor.selectionBackground": "#383838",
+    "list.activeSelectionBackground": "#2e2e2e",
+    "list.hoverBackground": "#242424"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#4c4c4c"
+      }
+    },
+    {
+      "scope": [
+        "string"
+      ],
+      "settings": {
+        "foreground": "#ffe6b5"
+      }
+    },
+    {
+      "scope": [
+        "keyword"
+      ],
+      "settings": {
+        "foreground": "#56656a"
+      }
+    },
+    {
+      "scope": [
+        "variable"
+      ],
+      "settings": {
+        "foreground": "#c7cdd8"
+      }
+    },
+    {
+      "scope": [
+        "function"
+      ],
+      "settings": {
+        "foreground": "#c7cdd8"
+      }
+    },
+    {
+      "scope": [
+        "number"
+      ],
+      "settings": {
+        "foreground": "#c7cdd8"
+      }
+    },
+    {
+      "scope": [
+        "storage.type"
+      ],
+      "settings": {
+        "foreground": "#56656a"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.bracket",
+        "punctuation.curlybrace.open",
+        "punctuation.curlybrace.close",
+        "meta.brace.curly"
+      ],
+      "settings": {
+        "foreground": "#56656a"
+      }
+    },
+    {
+      "scope": [
+        "meta.preprocessor",
+        "keyword.control.directive.include"
+      ],
+      "settings": {
+        "foreground": "#c7cdd8"
+      }
+    },
+    {
+      "scope": [
+        "string.quoted.other.lt-gt.include",
+        "punctuation.definition.string.begin.c",
+        "punctuation.definition.string.end.c"
+      ],
+      "settings": {
+        "foreground": "#56656a"
+      }
+    }
+  ]
+}
