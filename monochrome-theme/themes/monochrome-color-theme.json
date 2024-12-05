@@ -80,13 +80,28 @@
     },
     {
       "scope": [
-        "punctuation.bracket",
-        "punctuation.curlybrace.open",
-        "punctuation.curlybrace.close",
-        "meta.brace.curly"
+      "punctuation.bracket"
       ],
       "settings": {
-        "foreground": "#859ba2"
+      "foreground": "#859ba2"
+      }
+    },
+    {
+      "scope": [
+      "punctuation.curlybrace.open",
+      "meta.brace.curly.open"
+      ],
+      "settings": {
+      "foreground": "#6a8e97"
+      }
+    },
+    {
+      "scope": [
+      "punctuation.curlybrace.close",
+      "meta.brace.curly.close"
+      ],
+      "settings": {
+      "foreground": "#97826a"
       }
     },
     {
