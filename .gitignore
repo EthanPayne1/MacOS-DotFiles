@@ -9,7 +9,8 @@ zed/
 yabai/README.md
 yabai/screenshots/
 yabai/.gitignore
-/sketchybar-Clone/
+sketchybar
+sketchybar-*/
 swi-prolog/
 nvim/nvim-jdtls/
 monochrome-theme/themes/NvChad-Monochrome.png
