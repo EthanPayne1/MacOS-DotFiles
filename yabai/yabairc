@@ -11,7 +11,7 @@ gaps["top"]="1"
 gaps["bottom"]="1"
 gaps["left"]="1"
 gaps["right"]="1"
-gaps["inner"]="4"
+gaps["inner"]="2"
 
 color["focused"]="0xE0808080"
 color["normal"]="0x00010101"
