@@ -35,7 +35,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#ffe6b5"
+        "foreground": "#efe9d2"
       }
     },
     {
@@ -43,7 +43,7 @@
         "keyword"
       ],
       "settings": {
-        "foreground": "#56656a"
+        "foreground": "#859ba2"
       }
     },
     {
@@ -75,18 +75,52 @@
         "storage.type"
       ],
       "settings": {
-        "foreground": "#56656a"
+        "foreground": "#859ba2"
       }
     },
     {
       "scope": [
-        "punctuation.bracket",
-        "punctuation.curlybrace.open",
-        "punctuation.curlybrace.close",
-        "meta.brace.curly"
+      "punctuation.bracket"
       ],
       "settings": {
-        "foreground": "#56656a"
+      "foreground": "#859ba2"
+      }
+    },
+    {
+      "scope": [
+      "punctuation.curlybrace.open",
+      "meta.brace.curly.open"
+      ],
+      "settings": {
+      "foreground": "#6a8e97"
+      }
+    },
+    {
+      "scope": [
+      "punctuation.curlybrace.close",
+      "meta.brace.curly.close"
+      ],
+      "settings": {
+      "foreground": "#97826a"
+      }
+    },
+    {
+      "scope": [
+        "meta.preprocessor",
+        "keyword.control.directive.include"
+      ],
+      "settings": {
+        "foreground": "#c7cdd8"
+      }
+    },
+    {
+      "scope": [
+        "string.quoted.other.lt-gt.include",
+        "punctuation.definition.string.begin.c",
+        "punctuation.definition.string.end.c"
+      ],
+      "settings": {
+        "foreground": "#859ba2"
       }
     },
     {
