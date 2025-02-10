@@ -13,4 +13,5 @@ sketchybar
 sketchybar-*/
 swi-prolog/
 nvim/nvim-jdtls/
+nvim/lazy-lock.json
 monochrome-theme/themes/NvChad-Monochrome.png
