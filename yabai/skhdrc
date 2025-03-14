@@ -1,5 +1,6 @@
 # opens iTerm2
 alt - f : "${HOME}"/.config/yabai/scripts/open_iterm2.sh
+alt - d : "${HOME}"/.config/yabai/scripts/open_kitty.sh
 
 # Show system statistics
 fn - 1 : "${HOME}"/.config/yabai/scripts/show_cpu.sh
@@ -9,16 +10,16 @@ fn - 4 : "${HOME}"/.config/yabai/scripts/show_disk.sh
 fn - 5 : "${HOME}"/.config/yabai/scripts/show_song.sh
 
 # Navigation
-alt - a : yabai -m window --focus west
-alt - s : yabai -m window --focus south
-alt - w : yabai -m window --focus north
-alt - d : yabai -m window --focus east
+alt - h : yabai -m window --focus west
+alt - j : yabai -m window --focus south
+alt - k : yabai -m window --focus north
+alt - l : yabai -m window --focus east
 
 # Moving windows
-shift + alt - a : yabai -m window --warp west
-shift + alt - s : yabai -m window --warp south
-shift + alt - w : yabai -m window --warp north
-shift + alt - d : yabai -m window --warp east
+shift + alt - h : yabai -m window --warp west
+shift + alt - j : yabai -m window --warp south
+shift + alt - k : yabai -m window --warp north
+shift + alt - l : yabai -m window --warp east
 
 # Move focus container to workspace
 shift + alt - o : yabai -m window --space last; yabai -m space --focus last
@@ -30,13 +31,13 @@ shift + alt - l : yabai -m window --space 3; yabai -m space --focus 3
 shift + alt - m : yabai -m window --space 4; yabai -m space --focus 4
 
 # Resize windows
-lctrl + alt - a : yabai -m window --resize left:-50:0; \
+lctrl + shift - h : yabai -m window --resize left:-50:0; \
                   yabai -m window --resize right:-50:0
-lctrl + alt - s : yabai -m window --resize bottom:0:50; \
+lctrl + shift - j : yabai -m window --resize bottom:0:50; \
                   yabai -m window --resize top:0:50
-lctrl + alt - w : yabai -m window --resize top:0:-50; \
+lctrl + shift - k : yabai -m window --resize top:0:-50; \
                   yabai -m window --resize bottom:0:-50
-lctrl + alt - d : yabai -m window --resize right:50:0; \
+lctrl + shift - l : yabai -m window --resize right:50:0; \
                   yabai -m window --resize left:50:0
 
 # Equalize size of windows
