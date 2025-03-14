@@ -40,6 +40,11 @@ lspconfig.clangd.setup {
   --}
 }
 
+lspconfig.texlab.setup {
+  on_attach = on_attach,
+  capabilities = capabilities,
+}
+
 lspconfig.jdtls.setup {
   on_attach = on_attach,
   capabilities = capabilities,

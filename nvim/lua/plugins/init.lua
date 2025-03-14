@@ -51,8 +51,10 @@ local plugins = {
       vim.g.vimtex_mappings_enabled = 0
       vim.g.vimtex_indent_enabled = 0
 
-      vim.g.vimtex_view_method = "zathura"
-      vim.g.vimtex_context_pdf_viewer = "zathura"
+      vim.g.vimtex_view_method = "skim"
+      vim.g.vimtex_context_pdf_viewer = "skim"
+      -- vim.g.vimtex_view_method = "vimtex-view-zathura"
+      -- vim.g.vimtex_context_pdf_viewer = "vimtex-view-zathura"
     end,
   },
 
