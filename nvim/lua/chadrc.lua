@@ -4,13 +4,12 @@
 ---@type ChadrcConfig
 local M = {}
 
-M.ui = {
-	theme = "monochrome",
-
-	-- hl_override = {
-	-- 	Comment = { italic = true },
-	-- 	["@comment"] = { italic = true },
-	-- },
+M.base46 = {
+	theme = "mytheme",
+  theme_toggle = { "mytheme", "onenord_light" },
+  tabufline = {
+    lazyload = true
+  }
 }
 
 return M

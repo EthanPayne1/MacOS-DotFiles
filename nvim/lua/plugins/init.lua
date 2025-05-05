@@ -33,8 +33,14 @@ local plugins = {
   		},
   	},
   },
+  {
+    'MeanderingProgrammer/markdown.nvim',
+    main = "render-markdown",
+    opts = {},
+    name = 'render-markdown',
+    dependencies = { 'nvim-treesitter/nvim-treesitter'},
+  },
 
-  -- install without yarn or npm
   {
     "iamcco/markdown-preview.nvim",
     cmd = { "MarkdownPreviewToggle", "MarkdownPreview", "MarkdownPreviewStop" },
